@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kriswa-diam/static/css/main.dc499df0.css",
+    "main.js": "/kriswa-diam/static/js/main.94c14db8.js",
+    "index.html": "/kriswa-diam/index.html",
+    "main.dc499df0.css.map": "/kriswa-diam/static/css/main.dc499df0.css.map",
+    "main.94c14db8.js.map": "/kriswa-diam/static/js/main.94c14db8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc499df0.css",
+    "static/js/main.94c14db8.js"
+  ]
+}
