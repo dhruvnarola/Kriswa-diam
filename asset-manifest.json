@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Kriswa-diam/static/css/main.dc499df0.css",
-    "main.js": "/Kriswa-diam/static/js/main.94c14db8.js",
+    "main.js": "/Kriswa-diam/static/js/main.b42a71a4.js",
     "index.html": "/Kriswa-diam/index.html",
     "main.dc499df0.css.map": "/Kriswa-diam/static/css/main.dc499df0.css.map",
-    "main.94c14db8.js.map": "/Kriswa-diam/static/js/main.94c14db8.js.map"
+    "main.b42a71a4.js.map": "/Kriswa-diam/static/js/main.b42a71a4.js.map"
   },
   "entrypoints": [
     "static/css/main.dc499df0.css",
-    "static/js/main.94c14db8.js"
+    "static/js/main.b42a71a4.js"
   ]
 }
